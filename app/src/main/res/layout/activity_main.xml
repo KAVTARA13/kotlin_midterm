@@ -58,7 +58,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="120dp"
         android:layout_marginEnd="120dp"
-        android:background="#FF0000"
+        android:backgroundTint="#FF0000"
         android:text="SEND"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
